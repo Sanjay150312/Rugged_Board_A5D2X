@@ -1,8 +1,8 @@
 #include <WiFi.h>
 #include <WebServer.h>
 
-const char* ssid = "sanjay";
-const char* password = "san123455";
+const char* ssid = "san";
+const char* password = "san";
 
 WebServer server(80);
 String distanceValue = "Waiting...";

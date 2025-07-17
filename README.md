@@ -63,7 +63,7 @@ in uart via minicom
 📨 Received 'GETDIST' from ESP32 via UART
 📡 Measured distance: 12.34 cm — sending back via UART
 
-<img width="1024" height="1536" alt="Copilot_20250717_114451" src="https://github.com/user-attachments/assets/0f90fcd7-0a18-4496-a0d3-42e081448479" />
+
 
 
 
